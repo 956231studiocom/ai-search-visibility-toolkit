@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "956231studio",
+  "url": "https://956231studio.com",
+  "email": "956231@qq.com",
+  "description": "AI search visibility (GEO): a free 12-point audit and structured fixes so that AI search engines can resolve and cite a site.",
+  "sameAs": [
+    "https://github.com/956231studiocom"
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "AI Search Visibility Audit",
+        "serviceType": "Generative Engine Optimization"
+      }
+    }
+  ]
+}
