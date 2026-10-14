@@ -1,0 +1,20 @@
+# 956231studio
+
+> AI search visibility (GEO) - a free read-only audit and an open methodology for making
+> a site discoverable and citable by LLM-powered search engines.
+
+## Core
+- [Free 12-point audit](https://956231studio.com/geo-landing/): read-only check with a shareable result page.
+- [Public report library](https://956231studio.com/audit/): de-identified AI visibility reports.
+
+## Products
+- [Automation bundles](https://956231studio.com/bundles.html): vertical scenario packs.
+- [Product catalog](https://956231studio.com/products.html): the full list.
+
+## Optional
+- [Contact](mailto:956231@qq.com)
+
+# Notes on writing your own llms.txt:
+# - H1 is the entity name.
+# - One link per line, each followed by what the page answers and why it is authoritative.
+# - Only stable, public, login-free URLs. Never list pages behind a paywall or a form.
