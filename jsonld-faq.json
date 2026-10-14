@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI search visibility (GEO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI search visibility is whether LLM-powered search engines such as ChatGPT, Perplexity, Gemini and Claude can crawl a site, resolve it as a distinct entity, and cite it in generated answers. It is measured as a citation rate, not as a keyword ranking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the free check cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Twelve read-only signals: robots.txt policy for AI crawlers, llms.txt presence and structure, JSON-LD entity data, canonical and duplicate handling, citable answer blocks, entity naming consistency, crawlable rendering, sitemap and IndexNow coverage, third-party mentions, structured content density, and competitor citation gaps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a fix take to show results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recrawling of technical signals usually happens within days, but citation rate is a 30-day measurement. A baseline snapshot is taken before the fix and the same queries are re-measured 30 days later."
+      }
+    }
+  ]
+}
