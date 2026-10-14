@@ -1,0 +1,30 @@
+# --- AI crawlers: allow them. Blocking removes you from AI answers. ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Keep genuinely private areas out of the index instead:
+#   - add "Disallow" for those paths, and
+#   - send X-Robots-Tag: noindex on authenticated responses.
+# Most AI visibility incidents are accidental: a CDN or WAF rule blocks the crawler
+# user-agent long before anyone writes a robots.txt rule.
