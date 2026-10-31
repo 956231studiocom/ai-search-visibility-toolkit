@@ -41,7 +41,3 @@ AI 摘录的是**判断句 + 数字 + 边界条件**，不是形容词。
 
 ---
 *免费非商用可随意取用；转载保留本仓库链接即可。联系：956231@qq.com*
-
----
-
-Maintained by [956231 Studio](https://956231studio.com/) — practical packs for sellers and engineers, built and tested in production: [browse all packs](https://956231studio.com/packs/).
